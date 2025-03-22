@@ -204,7 +204,7 @@
 ### 第0步
 
 ```bash
-git clone https://github.com/jingyaogong/minimind.git
+git clone https://github.com/wangqianlongucas/minimind.git
 ```
 
 ## Ⅰ 测试已有模型效果
